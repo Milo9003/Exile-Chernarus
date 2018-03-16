@@ -13,6 +13,7 @@ I simply just added new the new things from Exile 1.0.4
 ### Optional
 
 * [PBOManager](http://www.armaholic.com/page.php?id=16369)
+* [Chernarus_Winter-A3](http://www.armaholic.com/page.php?id=29752) (Only used with Chernarus Winter and requires CUP)
 
 ## Installation
 
