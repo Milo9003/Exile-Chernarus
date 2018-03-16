@@ -1,7 +1,8 @@
 /*
 
-Mission file updated for Exile 1.0.2
+Mission file updated for Exile 1.0.4
 
-by [FPS]kuplion - www.friendlyplayershooting.com
+Updated by [JG]NoFocksGiven
+Originaly made by [FPS]kuplion - www.friendlyplayershooting.com
 
 */
