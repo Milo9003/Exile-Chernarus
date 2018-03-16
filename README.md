@@ -10,7 +10,25 @@ I simply just added new the new things from Exile 1.0.4
 * [CUP-Terrains-Maps](https://steamcommunity.com/sharedfiles/filedetails/?id=583544987)
 * [Exile 1.0.4](http://www.exilemod.com)
 
+### Optional
+
+* [PBOManager](http://www.armaholic.com/page.php?id=16369)
+
+## Installation
+
+1. Download this repository as a zip file.
+2. Extract it to your desktop or somewhere else
+3. Drag Exile.Chernarus.pbo to your servers MPMissions folder
+4. Edit your configs to use Exile.Chernarus as the mission file.
+5. Drag exile_server_config.pbo to @ExileServer/Addons folder and replace the previous.
+
 ## Information
+
+To edit the loot spawns, download [PBOManager](http://www.armaholic.com/page.php?id=16369) and [Loot Table Compiler](http://www.exilemod.com/downloads/)
+
+Edit the loot to your liking and then replace the section called 'class CfgExileLootServer' located in exile_server_config.pbo
+
+<hr>
 
 If you want to disable VirtualGarage, Grinding or Hacking
 
