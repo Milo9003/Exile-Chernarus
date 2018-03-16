@@ -31,7 +31,7 @@ To disable change enableGrinding = 1; to enableGrinding = 0;
 
 ### Cfg Hacking
 ```
-To disalbe change enableHacking = 1; to enableHacking = 0;
+To disable change enableHacking = 1; to enableHacking = 0;
 ```
 ## Credits
 
