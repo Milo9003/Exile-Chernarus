@@ -63,3 +63,5 @@ To disable change enableHacking = 1; to enableHacking = 0;
 # Note
 
 Features Exile Escape, but not guaranteed to work properly
+
+If you require futher help with installation, script installation, battle eye scripts etc, join my [Discord](https://discord.gg/335YgZP)
