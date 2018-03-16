@@ -1,8 +1,0 @@
-/*
-
-Mission file updated for Exile 1.0.4
-
-Updated by [JG]NoFocksGiven
-Originaly made by [FPS]kuplion - www.friendlyplayershooting.com
-
-*/
