@@ -2014,4 +2014,66 @@ class CfgSettings
 		deathLogging = 1;
 		territoryLogging = 1;
 	};
+	class Escape
+	{
+		/*
+			A very simple option with powerful consequences
+			Set to 1 to enable Exile Escape!
+		*/
+		enableEscape = 0;
+		
+		/*
+			Map Configs
+		*/
+		class Tanoa 
+		{
+			//Starting Position and radius
+			startingLocation[] = {1277.18,560.44,0.00142193};
+			startingAreaRadius = 100;
+		};
+		
+		class Altis
+		{
+			//Starting Position and radius
+			startingLocation[] = {8452.87, 25086.9, 0};
+			startingAreaRadius = 200;
+		};
+
+		// Which players are allowed to spectate after they are dead.
+		// Useful for admins/mods and streamers
+		spectatorUIDs[] = 
+		{
+			"76561197985241690",	// Eichi
+			"76561198022879703",	// Grim
+			"76561198075905447",	// Vish
+			"76561198037177305"		// WolfkillArcadia
+		};
+		
+		//Number of players needed before the game initializes
+		minimumPlayersOnline = 10;
+		
+		//Radius of the circle for each round
+		roundZoneRadius[] = {1000, 500, 250};
+		
+		//Final shrink size of last round. To prevent shrinking make finalZoneRadius equal to last roundZoneRadius
+		finalZoneRadius = 100;
+		
+		//Time in minutes after minimumPlayersOnline met before game begins
+		timeBeforeStart = 5;
+		
+		//Total Round Minutes
+		minutesPerRound = 10;
+		
+		//Minutes after round starts before new preview
+		minutesBeforePreview = 7;
+
+		// How much do ppl get when they win?
+		respectWinKill = 1000;
+		respectWinGetIn = 500;
+		respectWinSuicide = 500;
+		
+		//Number of weapon boxes to spawn
+		numberOfBoxes = 10;
+	};
+};
 };
